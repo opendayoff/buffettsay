@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's New
+title: 版本历史记录
 include_in_header: true
 ---
 

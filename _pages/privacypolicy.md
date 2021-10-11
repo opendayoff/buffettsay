@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Privacy Poli
-include_in_header: false
+title: 隐私政策
+include_in_header: true
 
 ---
 
-**最近更新**
-
-October  2021
+更新于：2021年十月
 
 # 隐私政策
 
