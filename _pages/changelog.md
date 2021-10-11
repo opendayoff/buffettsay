@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 版本历史记录
+title: 版本更新记录
 include_in_header: true
 ---
 
