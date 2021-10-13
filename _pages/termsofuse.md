@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 服务条款
-include_in_header: true
+include_in_header: false
 
 ---
 
