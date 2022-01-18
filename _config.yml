@@ -132,7 +132,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  [vendor]
+  - [vendor]
 
 collections:
   pages:
