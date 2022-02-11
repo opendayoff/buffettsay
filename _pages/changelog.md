@@ -10,6 +10,14 @@ include_in_header: false
 
 
 ## `Latest`
+
+## Version 0.3.0
+
+`更新于2022.02.10`
+
+- 优化日期显示
+- 修复BUG
+
 ## Version 0.2.9
 
 `更新于2022.01.17`
