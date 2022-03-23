@@ -10,7 +10,14 @@ include_in_header: false
 
 
 ## `Latest`
+## Version 0.4.0
 
+`更新于2022.03.23`
+
+* 收藏格言支持iCloud同步到其他设备
+* 优化APP性能和大小
+* 功能页面支持自动隐藏
+* 修复BUG
 ## Version 0.3.0
 
 `更新于2022.02.10`
