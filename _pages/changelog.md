@@ -12,8 +12,11 @@ include_in_header: false
 ## `Latest`
 
 ## Version 0.4.2
+
 `更新于2022.04.12`
+
 * 新增段永平语录
+
 ## Version 0.4.0
 
 `更新于2022.03.23`
@@ -22,6 +25,7 @@ include_in_header: false
 * 优化APP性能和大小
 * 功能页面支持自动隐藏
 * 修复BUG
+
 ## Version 0.3.0
 
 `更新于2022.02.10`
