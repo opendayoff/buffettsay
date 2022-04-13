@@ -10,6 +10,10 @@ include_in_header: false
 
 
 ## `Latest`
+
+## Version 0.4.2
+`更新于2022.04.12`
+* 新增段永平语录
 ## Version 0.4.0
 
 `更新于2022.03.23`
