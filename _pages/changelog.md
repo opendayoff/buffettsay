@@ -10,7 +10,12 @@ include_in_header: false
 
 
 ## `Latest`
+## Version 0.4.3
 
+`更新于2022.04.21`
+
+* 修复图片更新问题
+* 新增繁体版本
 ## Version 0.4.2
 
 `更新于2022.04.12`
